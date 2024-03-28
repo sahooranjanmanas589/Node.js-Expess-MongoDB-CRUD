@@ -15,7 +15,7 @@ $ npm install
 ```
 
  ## How it works ?
- # Manas 
+
  :tv: Video tutorial on this same topic  
  Url : https://youtu.be/voDummz1gO0
  
